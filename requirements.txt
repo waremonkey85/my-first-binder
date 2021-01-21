@@ -1,5 +1,5 @@
 numpy
 pandas
-backtester
 statsmodels
 matplotlib
+auquan-toolbox
